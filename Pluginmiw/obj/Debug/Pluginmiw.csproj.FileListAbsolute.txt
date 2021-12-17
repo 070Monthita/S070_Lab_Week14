@@ -1,0 +1,8 @@
+D:\week14\S070_Lab_Week14\myapp\Plugins\Pluginmiw.dll
+D:\week14\S070_Lab_Week14\myapp\Plugins\Pluginmiw.pdb
+D:\week14\S070_Lab_Week14\Pluginmiw\obj\Debug\Pluginmiw.csproj.AssemblyReference.cache
+D:\week14\S070_Lab_Week14\Pluginmiw\obj\Debug\Pluginmiw.ctlMain.resources
+D:\week14\S070_Lab_Week14\Pluginmiw\obj\Debug\Pluginmiw.csproj.GenerateResource.cache
+D:\week14\S070_Lab_Week14\Pluginmiw\obj\Debug\Pluginmiw.csproj.CoreCompileInputs.cache
+D:\week14\S070_Lab_Week14\Pluginmiw\obj\Debug\Pluginmiw.dll
+D:\week14\S070_Lab_Week14\Pluginmiw\obj\Debug\Pluginmiw.pdb

@@ -1,0 +1,28 @@
+[submodule "S070_Lab_Week14"]
+	path = S070_Lab_Week14
+	url = https://github.com/070Monthita/S070_Lab_Week14.git
+        ignore = dirty
+[submodule "pluginHost"]
+	path = pluginHost
+	url = https://github.com/070Monthita/pluginHost.git
+        ignore = dirty
+[submodule "pluginInterface"]
+	path = pluginInterface
+	url = https://github.com/070Monthita/pluginInterface.git
+        ignore = dirty
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/070Monthita/plugin1.git
+        ignore = dirty
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/070Monthita/plugin2.git
+        ignore = dirty
+[submodule "plugin3"]
+	path = plugin3
+	url = https://github.com/070Monthita/plugin3.git
+        ignore = dirty
+[submodule "plugin4"]
+	path = plugin4
+	url = https://github.com/070Monthita/plugin4.git
+        ignore = dirty
